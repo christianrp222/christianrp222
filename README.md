@@ -11,7 +11,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ www.linkedin.com/in/christian-rodrigues-487867247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ mestre/src/imagens/ícones/Social/linked-in-alt.svg" alt="www.linkedin.com/in/christian-rodrigues-487867247" altura="30" largura="40" /></a>
+
 <a href="https://instagram.com/@christianrp.7 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " alt="@christianrp.7" height="30" width="40" /></a>
 </p>
 
